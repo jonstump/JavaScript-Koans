@@ -1,3 +1,6 @@
+This is my repo to track my work on the JS Koans as I work through threm.
+
+***
 Update
 ======
 
